@@ -2,7 +2,7 @@
 const base_url = "http://localhost/biblio/";
 const host = "localhost";
 const user = "root";
-const pass = "";
+const pass = "password_987";
 const db = "biblioteca";
 const charset = "charset=utf8";
 ?>
